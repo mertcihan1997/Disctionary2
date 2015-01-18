@@ -59,7 +59,7 @@
 		71A66BD01A6B96A00098494A = {
 			isa = PBXGroup;
 			children = (
-				71A66BDB1A6B96A00098494A /* Disctionary2 */,
+				71A66BDB1A6B96A00098494A /* Dictionary */,
 				71A66BF11A6B96A00098494A /* Disctionary2Tests */,
 				71A66BDA1A6B96A00098494A /* Products */,
 			);
@@ -74,7 +74,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		71A66BDB1A6B96A00098494A /* Disctionary2 */ = {
+		71A66BDB1A6B96A00098494A /* Dictionary */ = {
 			isa = PBXGroup;
 			children = (
 				71A66BDE1A6B96A00098494A /* AppDelegate.swift */,
@@ -84,6 +84,7 @@
 				71A66BE71A6B96A00098494A /* LaunchScreen.xib */,
 				71A66BDC1A6B96A00098494A /* Supporting Files */,
 			);
+			name = Dictionary;
 			path = Disctionary2;
 			sourceTree = "<group>";
 		};
@@ -168,7 +169,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 71A66BD41A6B96A00098494A /* Build configuration list for PBXProject "Disctionary2" */;
+			buildConfigurationList = 71A66BD41A6B96A00098494A /* Build configuration list for PBXProject "Dictionary" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -391,7 +392,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		71A66BD41A6B96A00098494A /* Build configuration list for PBXProject "Disctionary2" */ = {
+		71A66BD41A6B96A00098494A /* Build configuration list for PBXProject "Dictionary" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				71A66BF61A6B96A00098494A /* Debug */,
@@ -407,6 +408,7 @@
 				71A66BFA1A6B96A00098494A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		71A66BFB1A6B96A00098494A /* Build configuration list for PBXNativeTarget "Disctionary2Tests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +417,7 @@
 				71A66BFD1A6B96A00098494A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
